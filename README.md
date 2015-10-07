@@ -1,5 +1,5 @@
 ## 获取依赖的方式
-- [x] ***pom.xml（此方式每次都需要配置 repository）***
+- [x] ***pom.xml*** **（此方式每次都需要配置 repository）**
 
 在 pom.xml 中添加如下配置：
 
@@ -21,7 +21,7 @@
 </dependencies>
 ```
 
-- [x] ***settings.xml（此方式仅需配置一次 repository）***
+- [x] ***settings.xml*** **（此方式仅需配置一次 repository）**
 
 在 settings.xml 中添加如下配置：
 
