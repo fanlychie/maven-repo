@@ -1,4 +1,4 @@
-## <i class="icon ion-flag"/> 获取依赖的方式
+## <i class="icon ion-paper-airplane"/> 获取依赖的方式
 
 - [x] ***pom.xml*** **（此方式每次都需要配置 repository）**
 
@@ -58,6 +58,6 @@
 </dependencies>
 ```
 
-## <i class="icon ion-flag"/> 获取源码的方式
+## <i class="icon ion-paper-airplane"/> 获取源码的方式
 
 在项目中引入依赖包后，右键项目 <i class="icon ion-arrow-right-c"/> Run As <i class="icon ion-arrow-right-c"/> Maven build... <i class="icon ion-arrow-right-c"/> Goals 栏键入 dependency:sources <i class="icon ion-arrow-right-c"/> Run
