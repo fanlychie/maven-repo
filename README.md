@@ -60,4 +60,6 @@
 
 ## 获取源码的方式
 
-在项目中引入依赖包后，右键项目 —> Run As —> Maven build... —> Goals 栏键入 dependency:sources —> Run
+在项目中引入依赖包后，根据如下步骤操作：
+
+右键项目 —> Run As —> Maven build... —> Goals 栏键入 dependency:sources —> Run
