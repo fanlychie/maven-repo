@@ -60,4 +60,4 @@
 
 ## 获取源码的方式
 
-在项目中引入依赖包后，右键项目 <i class="icon ion-arrow-right-c"/> Run As <i class="icon ion-arrow-right-c"/> Maven build... <i class="icon ion-arrow-right-c"/> Goals 栏键入 dependency:sources <i class="icon ion-arrow-right-c"/> Run
+在项目中引入依赖包后，右键项目 —> Run As —> Maven build... —> Goals 栏键入 dependency:sources —> Run
